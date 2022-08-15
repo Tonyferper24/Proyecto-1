@@ -1,0 +1,258 @@
+body{
+
+  color: rgb(255, 0, 208);
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+
+  text-decoration: none;
+}
+
+.up{
+
+  display: flex;
+  justify-content: center;
+  padding: 50px
+}
+
+.up nav a{
+
+  color: white;
+  padding: 60px;
+} 
+
+.up nav a:hover{
+
+  color: rgb(255, 0, 204);
+  transition: .4s;
+}
+
+.porta{
+  padding-left: 100px;
+  color: white;
+}
+
+.porta span{
+
+  color: rgb(255, 0, 208);
+}
+
+.cubo{
+  
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px ;
+  margin-top: 100px;
+}
+
+.cubo p{
+
+  position: relative;
+  left: 500px;
+  top: 200px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.cubo img{
+  
+  position: relative;
+  top: -100px;
+}
+
+.cubo h2{
+  color: white;
+  padding-left: 100px;
+}
+
+.face{
+
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px;
+  
+}
+
+.face h2{
+  color: white;
+  padding-left: 100px;
+}
+
+.face a{
+
+  position: relative;
+  top: -100px;
+  
+  
+}
+
+.face img{
+
+  position: relative;
+  top: -100px;
+}
+
+.face p{
+
+  position: relative;
+  top: 150px;
+  left: 500px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.tablet{
+
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px;
+}
+
+.tablet h2{
+
+  color: white;
+  padding-left: 50px;
+}
+
+.tablet img{
+
+  position: relative;
+  top: -100px;
+}
+
+.tablet a{
+
+  position: relative;
+  top: -100px;
+}
+
+.tablet p{
+
+  position: relative;
+  top: 150px;
+  left: 350px;
+  font-size: 30px;
+  width: 400px;
+}
+.js {
+
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px;
+}
+
+.js h2{
+
+  color: white;
+  padding-left: 100px;
+}
+
+.js img{
+
+  position: relative;
+  top: -100px;
+}
+
+.js a{
+
+  position: relative;
+  top: -50px;
+}
+
+.js p{
+
+  position: relative;
+  top: 150px;
+  left: 400px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.biccas{
+  
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px;
+}
+
+.biccas h2{
+
+  color: white;
+  padding-left: 150px;
+}
+
+.biccas img{
+
+  position: relative;
+  top: -100px;
+}
+
+.biccas a{
+
+  position: relative;
+  top: -80px;
+}
+
+
+.biccas p{
+
+  position: relative;
+  top: 150px;
+  left: 550px;
+  font-size: 30px;
+  width: 400px; 
+}
+
+.red {
+
+  border: solid 4px rgb(255, 0, 208);
+  border-radius: 2px;
+  width: 900px;
+}
+
+.red h2{
+
+  color: white;
+  padding-left: 100px;
+}
+
+.red a{
+
+  position: relative;
+  top: -80px;
+}
+
+.red img{
+
+  position: relative;
+  top: -100px;
+}
+
+.red p{
+
+  position: relative;
+  top: 150px;
+  left: 500px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.social {
+  margin-top: 50px;
+  margin-left: 350px;
+  border: solid 5px rgb(255, 0, 208);
+  width: 500px;
+  border-radius: 5px;
+}
+
+.social h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.social a {
+  margin-left: 100px;
+}
+

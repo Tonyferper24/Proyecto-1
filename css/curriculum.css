@@ -1,0 +1,187 @@
+body {
+
+  color: rgb(255, 0, 208);
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+  text-decoration: none;
+}
+
+span{
+
+  color: rgb(255, 0, 208);
+}
+
+.curri{
+
+  color: white;
+}
+
+.center{
+
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.center nav a{
+
+  color: white;
+  padding: 60px;
+
+}
+
+.center nav a:hover{
+
+  color: rgb(255, 0, 195);
+  transition: .4s;
+}
+
+h1{
+
+  padding-left: 100px;
+}
+
+.name{
+
+  display: flex;
+  justify-content: center;
+  padding-right: 50px;
+}
+
+.name p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.surname{
+
+  display: flex;
+  justify-content: center;
+  
+}
+
+.surname p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.nationality{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+}
+
+.nationality p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.address{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 110px;
+}
+
+.address p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.primary{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 90px;
+}
+
+.primary p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.secondary{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 130px;
+}
+
+.secondary p{
+
+  display: flex;
+  justify-items: center;
+  padding: 10px;
+}
+
+.marital{
+
+  display: flex;
+  justify-content: center;
+}
+
+.marital p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.work{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 170px;
+}
+
+.work p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.soft{
+
+  display: flex;
+  justify-content: center;
+  padding-left: 310px;
+}
+
+.soft p{
+
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.social {
+  margin-top: 50px;
+  margin-left: 350px;
+  border: solid 5px rgb(255, 0, 217);
+  width: 500px;
+  border-radius: 5px;
+}
+
+.social h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.social a {
+  margin-left: 100px;
+}
